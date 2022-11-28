@@ -1,0 +1,2 @@
+http://localhost:9200/posts/_search
+wsl -d docker-desktop sh -c "sysctl -w vm.max_map_count=262144"
